@@ -1,2 +1,2 @@
 # Finance
-Check out my foundational finance concepts and case studies
+Check out my finance concepts using case studies
